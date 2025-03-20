@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amiri83
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on openSoure projects , Devops , Python , Javascript
+- 💞️ I’m looking to collaborate on openSoure projects , Devops , Python , K8s
 - 📫 How to reach me Amiri83@gmail.com
 
 <!---
